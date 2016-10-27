@@ -1,6 +1,3 @@
-ARTSTUFF.WTF
-============
-
 #FRI 10/28
 **Ecco: The Videos of Oneohtrix Point Never and Related Works**
 TUESDAYS, WEDNESDAYS, FRIDAYS & SATURDAYS, OCT 18–NOV 19, 2016
