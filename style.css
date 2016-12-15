@@ -1,0 +1,12 @@
+body {
+  background-color: #D9FFDC;
+  font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: purple;
+}
