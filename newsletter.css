@@ -3,14 +3,14 @@ body {
 						        min-width: 100%;
 							  background-color: #fff;
 							    position: relative;
-							      top: 0;
+							      top: 10;
 							        bottom: 100%;
-								  left: 0;
+								  left: 20;
 								    z-index: 1;
 									overflow-wrap: normal;
 									word-wrap: break-word;
 
-									      padding: 0;
+									      padding: 20;
 												background-image: linear-gradient(135deg, rgb(100,255,100) 0%,rgb(221,241,249) 35%,rgb(100,216,100) 100%);
 									  background-size: 200%;
 
