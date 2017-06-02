@@ -34,4 +34,11 @@ California Market Center
 10am - 6pm  
 FREE  
 *Celebrating self-publishing and DIY culture in the community, this year's Fest will feature OVER 200 ZINESTERS; writers, illustrators, comix creators, photographers, and more, selling, trading & sharing their work, all in one place, for one amazing day! ZINE LIBRARIES WONDERSPACE (Free Hands-on Workshops) PLAYDATE (Independent Arcade Games) Exhibitor Art Curated by Pengu Labs INCREDIBLE VOLUNTEERS DJs ZINES ZINES ZINES*  
-[LINK]://lazinefest.com/2017-la-zine-fest-event-information/)  (
+[LINK]://lazinefest.com/2017-la-zine-fest-event-information/)  
+
+**The Minnow Show: Episode 2**  
+The Velaslavasay Panorama  
+11am  
+$15 - 20  
+*An overview of stop motion animation and whimsical dramas from the archive of Smokehouse Films. Including: Csaba Varga's, a leading figure in the history of Hungarian animation.  ~ These films will be projected on 16mm and will include an overview of projection methods for future projectionists & cinephiles. Afterwards in the garden, Archivist & Filmmaker John Cannizzaro of Smokehouse Films will lead a private workshop on hand-drawn animation in the style of Norman McLaren that involves painting/drawing directly on 16mm film. We will then present your work on a 16mm projector on the Velaslavasay stage with an experimental soundtrack. All materials are supplied and no experience is needed, all ages are welcome & snacks included.*
+[LINK](http://minnow2.bpt.me/)  
