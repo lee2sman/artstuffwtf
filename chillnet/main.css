@@ -5,23 +5,25 @@ html {
 }
 
 body {
+
+  font-size: 2em;
     width: 100%;
     height: 100%;
-    background-color: red;
+/*    background-color: red; */
 }
 
 h1{
     font-family: 'Inconsolata', monospace;
-    font-size: 30px;
+    font-size: 180%;
     text-align: center;
     text-shadow: 2px 2px #ff0000;
 }
 
 p{
-    
+
     font-family: 'Inconsolata', monospace;
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 100%;
+    line-height: 120%;
     color: white;
     text-align: center;
 /*    text-shadow: 1px 1px #cccccc;*/
@@ -31,25 +33,19 @@ a, a:visited {
     color: white;
 }
 
-#center{
-    width: 85%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 #div1 {
-/*    background: red;*/
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    height: 100%;
-    position: relative;
-/*    overflow: hidden;*/
-    z-index: -1;
-}
+    height: 120%;
+    background-image: url(tower.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+    opacity: 0.4;
 
-#div1 img {
-    width: 100%;
-    opacity: 0.2;
-    
     -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
     -webkit-animation-duration: 10s; /* Safari 4.0 - 8.0 */
     -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
@@ -60,26 +56,39 @@ a, a:visited {
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes example {
-    0%   {opacity: 0.4;}
-    50%  {opacity: 1;}
-    100% {opacity: 0.4;}
+    0%   {opacity:0.4;}
+    50%  {opacity:1;}
+    100% {opacity:0.4;}
 }
 
 /* Standard syntax */
 @keyframes example {
-    0%   {opacity: 0.2;}
-    50%  {opacity: 0.6;}
-    100% {opacity: 0.2;}
+    0%   {opacity:0.4;}
+    50%  {opacity:0.6;}
+    100% {opacity:0.4;}
 }
 
+#center{
+    width: 100%;
+    height: 120%;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    background-color: red;
+
+}
+
+
 #div2 {
-    width: 55%;
+    width: 90%;
+    height: 100%;
     position: absolute;
     color: white;
     top: 0;
     left: 0;
     margin-top: 2%;
     margin-left: 2%;
-    overflow: hidden;
-    z-index: 1;
+    z-index: 2;
 }
