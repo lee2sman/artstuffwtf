@@ -1,18 +1,19 @@
 body {
-						      min-height: 100%;
-						        min-width: 100%;
-							  background-color: #fff;
-							    position: relative;
-							      top: 10;
-							        bottom: 100%;
-								  left: 30;
-								    z-index: 1;
-									overflow-wrap: normal;
-									word-wrap: break-word;
+    min-height: 100%;
+    min-width: 80%;
+    max-width: 90%;
+    color: black;
+    padding: 3%;
+    top: 10;
+    bottom: 100%;
+    left: 30;
+    overflow-wrap: normal;
+    word-wrap: break-word;
+    padding: 25;
+    background-image: linear-gradient(135deg, rgb(100,255,100) 0%,rgb(221,241,249) 35%,rgb(100,216,100) 100%);
+    background-size: 200%;
+}
 
-									      padding: 25;
-												background-image: linear-gradient(135deg, rgb(100,255,100) 0%,rgb(221,241,249) 35%,rgb(100,216,100) 100%);
-									  background-size: 200%;
-
-
+img {
+   width: 100%; 
 }
